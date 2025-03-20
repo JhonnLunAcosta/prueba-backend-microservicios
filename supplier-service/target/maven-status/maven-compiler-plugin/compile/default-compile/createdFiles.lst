@@ -1,0 +1,5 @@
+com/jaluna/supplier/controller/SupplierController.class
+com/jaluna/supplier/service/SupplierService.class
+com/jaluna/supplier/repository/SupplierRepository.class
+com/jaluna/supplier/model/Supplier.class
+com/jaluna/App.class

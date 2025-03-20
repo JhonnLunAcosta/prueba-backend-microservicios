@@ -1,0 +1,5 @@
+/data/data/com.termux/files/home/prueba-backend-microservicios/supplier-service/src/main/java/com/jaluna/supplier/service/SupplierService.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/supplier-service/src/main/java/com/jaluna/supplier/model/Supplier.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/supplier-service/src/main/java/com/jaluna/App.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/supplier-service/src/main/java/com/jaluna/supplier/repository/SupplierRepository.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/supplier-service/src/main/java/com/jaluna/supplier/controller/SupplierController.java
