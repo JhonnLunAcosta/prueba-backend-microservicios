@@ -1,3 +1,4 @@
+com/jaluna/supplier/SupplierServiceApplication.class
 com/jaluna/supplier/controller/SupplierController.class
 com/jaluna/supplier/service/SupplierService.class
 com/jaluna/supplier/repository/SupplierRepository.class
