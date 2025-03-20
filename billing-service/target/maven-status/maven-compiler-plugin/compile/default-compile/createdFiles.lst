@@ -1,0 +1,6 @@
+com/jaluna/billing/model/Invoice.class
+com/jaluna/billing/BillingServiceApplication.class
+com/jaluna/billing/service/InvoiceService.class
+com/jaluna/App.class
+com/jaluna/billing/repository/InvoiceRepository.class
+com/jaluna/billing/controller/InvoiceController.class
