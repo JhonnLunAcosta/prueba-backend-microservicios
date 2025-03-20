@@ -1,0 +1,6 @@
+com/jaluna/inventory/InventoryServiceApplication.class
+com/jaluna/App.class
+com/jaluna/inventory/controller/ProductController.class
+com/jaluna/inventory/model/Product.class
+com/jaluna/inventory/service/ProductService.class
+com/jaluna/inventory/repository/ProductRepository.class

@@ -1,0 +1,6 @@
+/data/data/com.termux/files/home/prueba-backend-microservicios/inventory-service/src/main/java/com/jaluna/App.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/inventory-service/src/main/java/com/jaluna/inventory/InventoryServiceApplication.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/inventory-service/src/main/java/com/jaluna/inventory/controller/ProductController.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/inventory-service/src/main/java/com/jaluna/inventory/model/Product.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/inventory-service/src/main/java/com/jaluna/inventory/repository/ProductRepository.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/inventory-service/src/main/java/com/jaluna/inventory/service/ProductService.java
