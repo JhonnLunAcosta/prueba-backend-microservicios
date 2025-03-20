@@ -1,0 +1,6 @@
+/data/data/com.termux/files/home/prueba-backend-microservicios/customer-service/customer-service/src/main/java/com/jaluna/App.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/customer-service/customer-service/src/main/java/com/jaluna/customer/service/CustomerService.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/customer-service/customer-service/src/main/java/com/jaluna/customer/controller/CustomerController.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/customer-service/customer-service/src/main/java/com/jaluna/customer/repository/CustomerRepository.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/customer-service/customer-service/src/main/java/com/jaluna/customer/CustomerServiceApplication.java
+/data/data/com.termux/files/home/prueba-backend-microservicios/customer-service/customer-service/src/main/java/com/jaluna/customer/model/Customer.java
